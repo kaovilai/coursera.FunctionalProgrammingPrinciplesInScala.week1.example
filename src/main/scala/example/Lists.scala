@@ -22,12 +22,7 @@ object Lists {
     * @return The sum of all elements in `xs`
     */
   def sum(xs: List[Int]): Int = {
-    var xsIterator = xs.iterator
-    var sum = 0
-    while (xsIterator.hasNext) {
-      sum += xsIterator.next()
-    }
-    sum
+    xs.reduceLeft(_ + _)
   }
 
   /** This method returns the largest element in a list of integers. If the
@@ -43,11 +38,6 @@ object Lists {
     * @throws java.util.NoSuchElementException if `xs` is an empty list
     */
   def max(xs: List[Int]): Int = {
-    var maxNum: Int = Integer.MIN_VALUE
-    var xsIterator = xs.iterator
-    while (xsIterator.hasNext) {
-      maxNum = Math.max(maxNum, xsIterator.next())
-    }
-    maxNum
+    xs.maxBy(tokens => tokens)
   }
 }
