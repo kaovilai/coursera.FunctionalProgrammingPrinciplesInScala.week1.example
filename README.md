@@ -6,5 +6,5 @@ as of 5/14/2021
   - sum
   - max
   
-Course's included intentional failing tests are left there intentionally.
+Course's included intentional failing tests are commented out.
 [![Scala CI](https://github.com/kaovilai/coursera.FunctionalProgrammingPrinciplesInScala.week1.example/actions/workflows/scala.yml/badge.svg)](https://github.com/kaovilai/coursera.FunctionalProgrammingPrinciplesInScala.week1.example/actions/workflows/scala.yml)
