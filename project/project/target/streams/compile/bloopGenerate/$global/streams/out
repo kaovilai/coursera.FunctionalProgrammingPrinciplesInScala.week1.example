@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[example-build-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[example-build-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'example-build-build' to 'C:\Users\Passawit\OneDrive\Coursera\Functional Programming Principles in Scala\example\project\project\.bloop\example-build-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop\example-build-build.json[0m
