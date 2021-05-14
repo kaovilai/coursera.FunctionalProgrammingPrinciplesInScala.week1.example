@@ -1019,3 +1019,6 @@ WARNING: Unmatched cancel notification for request id 2238
 [0m2021.05.14 17:25:49 INFO  time: compiled example in 0.65s[0m
 [0m2021.05.14 17:26:03 INFO  compiling example (1 scala source)[0m
 [0m2021.05.14 17:26:03 INFO  time: compiled example in 0.64s[0m
+May 14, 2021 5:31:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.14 17:36:12 WARN  no build target for: C:\Users\Passawit\OneDrive\Coursera\Functional Programming Principles in Scala\example\project\project\metals.sbt[0m
