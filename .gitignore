@@ -2,3 +2,4 @@
 importing oh-my-posh/*
 .metals/*
 target/*
+*/Coursier/cache/*
