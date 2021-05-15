@@ -3,3 +3,6 @@ importing oh-my-posh/*
 .metals/*
 target/*
 */Coursier/cache/*
+**.class
+**.cache
+project/target/*
